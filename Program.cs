@@ -69,9 +69,9 @@ namespace DIO.Series
 			catch (System.Exception)
 			{
 					
-					Console.WriteLine("================");
-					Console.WriteLine("Série não existe");
-					Console.WriteLine("================");
+					Console.WriteLine("====================");
+					Console.WriteLine("= Série não existe =");
+					Console.WriteLine("====================");
 			}
 			
 		}
@@ -107,7 +107,7 @@ namespace DIO.Series
 										titulo: entradaTitulo,
 										ano: entradaAno,
 										descricao: entradaDescricao,
-										ratings: entradaRatings); // avaliação da Serie - numero inteiro
+										ratings: entradaRatings); // avaliação da Serie - numero inteiro de 1 a 10
 
 			repositorio.Atualiza(indiceSerie, atualizaSerie);
 		}
@@ -153,7 +153,7 @@ namespace DIO.Series
 			Console.Write("Digite a Descrição da Série: ");
 			var entradaDescricao = Console.ReadLine();
 
-			Console.Write("Digite a avaliação da Série: ");
+			Console.Write("Digite a Avaliação da Série: ");
 			var entradaRatings = float.Parse(Console.ReadLine());
 
 			Serie novaSerie = new Serie(id: repositorio.ProximoId(),
