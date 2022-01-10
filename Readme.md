@@ -1,4 +1,5 @@
 
+
 <hr>
 
 
@@ -7,13 +8,13 @@
 <hr />
 
 <details>
-    <summary><strong>Métodos - CRUD </strong></summary>
+    <summary><strong>Método - CRUD </strong></summary>
         <br />
         <ol>
-            <li>Listar</li>
-            <li>Inserir</li>
-            <li>Atualizar</li>
-            <li>Excluir</li> 
+            <li>Create  - Criar</li>
+            <li>Read  - Ler</li>
+            <li>Update  - Atualizar</li>
+            <li>Delete  - Excluir</li> 
             <li>Visualizar</li>
         </ol>
 </details>
@@ -34,11 +35,10 @@
 <hr />
 
 <details>
-
   <sumnary><strong>DESCRIÇÃO</strong></summary><br/>
 
- Algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos,<br>
-  o principal paradigma de programação utilizada no mercado.<br> 
+<p aling = "left"> Algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos,<br>
+  o principal paradigma de programação utilizada no mercado.</p><br>
 
   ### Nesse projeto você vai aprender:
   Como pensar orientado a objetos, 
@@ -68,9 +68,8 @@
       . Lógica de Programação
       . Conhecimento básico de OO
       . Conhecimento básico de .NET
-
-</details>
 <hr/>
+<hr>
 
 ### Foi adicionado ao projeto a opção de confirmação de exclusão. 
 ### Retorna: Tem certeza que deseja excluir? s/n 
@@ -80,3 +79,6 @@
 ==== Série não existe ====
 
 ### Foi cadastrada novas opções de Séries
+### foi adicionada a avaliação - rating -  da série
+</details>
+ 
