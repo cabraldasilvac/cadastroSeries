@@ -66,14 +66,19 @@
 <hr/>
 <hr>
 
-### Foi adicionado ao projeto a opção de confirmação de exclusão. 
+### Foi adicionado ao projeto a opção de confirmação de exclusão e 
 ### Retorna: Tem certeza que deseja excluir? s/n 
 
 ### No visualizar se for digitado o ID de serie que não esta cadastrada ele retorna a informação: <br>
 
 ==== Série não Existe ====
 
+<<<<<<< HEAD
 ### Foi cadastrada novas opções de Séries.
 ### Foi adicionada a avaliação - rating -  da série.
 </details>
  
+=======
+### Foi cadastrada novas opções de Séries
+### Também foi implementado a avaliação da Série com pontuação.
+>>>>>>> d318beae8b7550f8de16c1126cfa6882f9a29c4a

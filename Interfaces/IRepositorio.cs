@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+// IRepositorio de Serie
 
 namespace DIO.Series.Interfaces
 {
