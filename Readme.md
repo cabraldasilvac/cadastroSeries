@@ -1,9 +1,6 @@
-
-
 <hr>
 
-
-<h1 align="center">Cadastro de Séries em <strong>.NET</strong> </h1>
+  <h1 align="center">Cadastro de Séries em <strong>.NET</strong> </h1>
 
 <hr />
 
@@ -28,8 +25,7 @@
         Plataforma: <a href="https://web.digitalinnovation.one/home">Digital Innovation One.</a>
         <br /> 
         Desafio: <a href="https://web.digitalinnovation.one/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/9432e625-663e-481a-971b-c77a4aa96d16">Criando um APP simples de Cadastro de Séries em .NET.</a>
-    </p>
-    
+    </p>    
 </details>
 
 <hr />
@@ -75,7 +71,7 @@
 
 ### No visualizar se for digitado o ID de serie que não esta cadastrada ele retorna a informação: <br>
 
-==== Série não existe ====
+==== Série não Existe ====
 
 ### Foi cadastrada novas opções de Séries.
 ### Foi adicionada a avaliação - rating -  da série.
